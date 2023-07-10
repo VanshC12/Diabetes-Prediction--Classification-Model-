@@ -6,8 +6,6 @@ The main purpose of this project is to build a predictive model that can assist 
 Installation:
 To use this project, please follow the instructions below:
 
-Clone the project repository from GitHub: https://github.com/VanshC12/Diabetes-Prediction.git
-
 Ensure you have Python 3.x installed on your system.
 
 Install the required dependencies by running the following command in your terminal:
